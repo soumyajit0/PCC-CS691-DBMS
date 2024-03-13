@@ -1,0 +1,6 @@
+INSERT INTO PRODUCT_MASTER (Product_no, Description, QTY_ON_Hand, Sell_Price, Cost_Price) VALUES ('P001', 'Laptop', 10, 1200.00, 1000.00);
+INSERT INTO PRODUCT_MASTER (Product_no, Description, QTY_ON_Hand, Sell_Price, Cost_Price) VALUES ('P002', 'Smartphone', 20, 800.00, 600.00);
+INSERT INTO PRODUCT_MASTER (Product_no, Description, QTY_ON_Hand, Sell_Price, Cost_Price) VALUES ('P003', 'Tablet', 15, 500.00, 400.00);
+INSERT INTO PRODUCT_MASTER (Product_no, Description, QTY_ON_Hand, Sell_Price, Cost_Price) VALUES ('P004', 'Smartwatch', 30, 300.00, 200.00);
+INSERT INTO PRODUCT_MASTER (Product_no, Description, QTY_ON_Hand, Sell_Price, Cost_Price) VALUES ('P005', 'Headphones', 25, 100.00, 80.00);
+SELECT * FROM PRODUCT_MASTER;

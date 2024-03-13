@@ -1,0 +1,6 @@
+INSERT INTO SALES_ORDER (Order_no, Client_no, Order_date, Salesman_no, Dely_type, Dely_date) VALUES ('O001', 'C001', TO_DATE('2024-03-13', 'YYYY-MM-DD'), 'S001', 'F', TO_DATE('2024-03-15', 'YYYY-MM-DD'));
+INSERT INTO SALES_ORDER (Order_no, Client_no, Order_date, Salesman_no, Dely_type, Dely_date) VALUES ('O002', 'C002', TO_DATE('2024-03-14', 'YYYY-MM-DD'), 'S002', 'F', TO_DATE('2024-03-16', 'YYYY-MM-DD'));
+INSERT INTO SALES_ORDER (Order_no, Client_no, Order_date, Salesman_no, Dely_type, Dely_date) VALUES ('O003', 'C003', TO_DATE('2024-03-15', 'YYYY-MM-DD'), 'S003', 'F', TO_DATE('2024-03-17', 'YYYY-MM-DD'));
+INSERT INTO SALES_ORDER (Order_no, Client_no, Order_date, Salesman_no, Dely_type, Dely_date) VALUES ('O004', 'C004', TO_DATE('2024-03-16', 'YYYY-MM-DD'), 'S004', 'F', TO_DATE('2024-03-18', 'YYYY-MM-DD'));
+INSERT INTO SALES_ORDER (Order_no, Client_no, Order_date, Salesman_no, Dely_type, Dely_date) VALUES ('O005', 'C005', TO_DATE('2024-03-17', 'YYYY-MM-DD'), 'S005', 'F', TO_DATE('2024-03-19', 'YYYY-MM-DD'));
+SELECT * FROM SALES_ORDER;

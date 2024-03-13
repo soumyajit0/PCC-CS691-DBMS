@@ -1,0 +1,6 @@
+INSERT INTO CLIENT_MASTER (Client_no, Name, City, Pincode, State, Bal_Due) VALUES ('C001', 'John Doe', 'New York', 10001, 'New York', 500.00);
+INSERT INTO CLIENT_MASTER (Client_no, Name, City, Pincode, State, Bal_Due) VALUES ('C002', 'Jane Smith', 'Los Angeles', 90001, 'California', 1000.00);
+INSERT INTO CLIENT_MASTER (Client_no, Name, City, Pincode, State, Bal_Due) VALUES ('C003', 'Alice Johnson', 'Chicago', 60001, 'Illinois', 750.50);
+INSERT INTO CLIENT_MASTER (Client_no, Name, City, Pincode, State, Bal_Due) VALUES ('C004', 'Bob Williams', 'Houston', 77001, 'Texas', 1200.75);
+INSERT INTO CLIENT_MASTER (Client_no, Name, City, Pincode, State, Bal_Due) VALUES ('C005', 'Michael Brown', 'San Francisco', 94016, 'California', 850.25);
+SELECT * FROM CLIENT_MASTER;

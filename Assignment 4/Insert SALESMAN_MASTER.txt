@@ -1,0 +1,6 @@
+INSERT INTO SALESMAN_MASTER (Salesman_no, Salesman_name, City, Pincode, State, Sal_Amt) VALUES ('S001', 'John Smith', 'New York', 10001, 'New York', 2500.00);
+INSERT INTO SALESMAN_MASTER (Salesman_no, Salesman_name, City, Pincode, State, Sal_Amt) VALUES ('S002', 'Alice Johnson', 'Los Angeles', 90001, 'California', 3000.00);
+INSERT INTO SALESMAN_MASTER (Salesman_no, Salesman_name, City, Pincode, State, Sal_Amt) VALUES ('S003', 'Bob Williams', 'Chicago', 60001, 'Illinois', 2800.00);
+INSERT INTO SALESMAN_MASTER (Salesman_no, Salesman_name, City, Pincode, State, Sal_Amt) VALUES ('S004', 'Jane Doe', 'Houston', 77001, 'Texas', 3200.00);
+INSERT INTO SALESMAN_MASTER (Salesman_no, Salesman_name, City, Pincode, State, Sal_Amt) VALUES ('S005', 'Michael Brown', 'San Francisco', 94016, 'California', 2700.00);
+SELECT * FROM SALESMAN_MASTER;
